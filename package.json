@@ -14,7 +14,7 @@
     "@adobe/react-native-acpcampaign": "^1.1.0",
     "@adobe/react-native-acpcore": "^1.1.2",
     "react": "16.9.0",
-    "react-native": "0.61.2"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "7.6.3",
